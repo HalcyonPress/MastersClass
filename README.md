@@ -1,7 +1,7 @@
 # Everyday Fitness
 
-This Everyday Manual discusses basic fitness concepts and practice that most people can easily adopt to improve basic fitness and quality of life.
+This Everyday manual discusses basic fitness concepts and practice that most people can easily adopt to improve basic fitness and quality of life.
 
-## Body, mind, and spirit
+## Quality over quantity
 
-Our goal is, broadly, "improved quality of life through incremental physical improvement". "Quality of life" is ultimately determined more by mental and spiritual well-being
+Everyday Fitness focuses on improving health and quality of life. Rather than targeting weight or distance, Everyday Fitness focuses on developing quality breath, pliable muscles, and stress reduction.
