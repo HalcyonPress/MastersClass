@@ -14,6 +14,10 @@ Our goal here is actually to exercise as little as possible. While many exercise
 
 As with any practice, consistency is key. Our approach, therefore, is to "exercise least" by exercising better.
 
+For more on setting and defining goals, refer to:
+* [Defining Quality of Life](./Goals/Defining-Quality-of-Life.md)
+* [Tracking: Why, What, and How](./Goals/Tracking-Why-What-and-How.md)
+
 ## Foundations
 
 In particular, we focus on developing three core practices:
@@ -29,10 +33,6 @@ Of course, if you're reading this, you're breathing. But just like any activity,
 
 
 #### Nose vs mouth
-
-
-
-
 
 
 
